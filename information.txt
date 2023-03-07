@@ -1,0 +1,48 @@
+date: Tue Mar  7 22:59:13 GMT 2023
+underlying_board: goldfish_x86_64
+system_bootloader_version_number: unknown
+consumer_visible_brand: google
+industrial_design: emu64x
+build_ID_string: sdk_gphone64_x86_64-userdebug 13 TE1A.220922.021 9526604 dev-keys
+uniquely_identifies_this_build: google/sdk_gphone64_x86_64/emu64x:13/TE1A.220922.021/9526604:userdebug/dev-keys
+HARDWARE: ranchu
+HOST: abfarm-release-rbe-32-2004-00008
+Base: 1
+device: 1
+device id: d015e756b3617667
+ID: TE1A.220922.021
+MANUFACTURER: Google
+MODEL: sdk_gphone64_x86_64
+PRODUCT: sdk_gphone64_x86_64
+SOC_MANUFACTURER: AOSP
+TAGS: dev-keys
+TYPE: userdebug
+USER: android-build
+input method : com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+CODENAME: REL
+INCREMENTAL: 9526604
+PREVIEW_SDK_INT: 0
+RELEASE: 13
+RELEASE_OR_CODENAME: 13
+SDK_INT: 33
+SECURITY_PATCH: 2022-11-05
+ENABLED_INPUT_METHODS : com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME:com.google.android.tts/com.google.android.apps.speech.tts.googletts.settings.asr.voiceime.VoiceInputMethodService
+INSTALL_NON_MARKET_APPS : 1
+MEDIA_MOUNTED: mounted
+BLUETOOTH_UID: 1002
+PHONE_UID: 1001
+ROOT_UID: 0
+SHELL_UID: 2000
+DISALLOW_CONFIG_LOCALE: no_config_locale
+user.name: root
+LOCATION_MODE : 3
+java.vm.name: Dalvik
+os.version:5.15.41-android13-8-00055-g4f5025129fe8-ab8949913
+language:English (United States)
+reqGlEsVersion: 131072
+reqInputFeatures: 3
+reqTouchScreen: 3
+
+Bluetooth is enabled: true
+charging: false
+time until the battery is fully charged: -1
